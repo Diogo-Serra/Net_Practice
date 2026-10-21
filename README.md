@@ -65,17 +65,13 @@ Before moving on from a level, select **Get my config** to download the configur
 - **OSI model**: the seven layers and their relation to the TCP/IP model, with addressing and routing at layer 3 and switching at layer 2.
 ### References
  
-- RFC 791, *Internet Protocol*: https://www.rfc-editor.org/rfc/rfc791
-- RFC 950, *Internet Standard Subnetting Procedure*: https://www.rfc-editor.org/rfc/rfc950
-- RFC 1918, *Address Allocation for Private Internets*: https://www.rfc-editor.org/rfc/rfc1918
-- RFC 4632, *Classless Inter-domain Routing (CIDR)*: https://www.rfc-editor.org/rfc/rfc4632
-- ISO/IEC 7498-1, *Open Systems Interconnection: Basic Reference Model*.
-- Cloudflare Learning Center, *What is the OSI model?*: https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/
+
 
 ### Use of AI
  
-AI was used as a study aid, not to produce the submitted configurations. It was used to:
+AI was used as a study aid:
  
-- Produce a structured summary of the concepts listed above (addressing, masks, gateways, routing and the OSI model), which was then read and checked against the references.
-- Draft this `README.md`.
+- Produce a structured summary of the concepts listed above (addressing, masks, gateways, routing and the OSI model).
+- Support on the draft of this `README.md`.
+
 All subnet calculations were verified by hand, and the configuration files were produced by solving each level directly in the training interface.
